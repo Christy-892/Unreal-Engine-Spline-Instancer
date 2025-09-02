@@ -1,5 +1,5 @@
 # Unreal Engine Spline Instancer
-An initial exploration of Unreal Engine 5's PCG system. I wanted to see how far I can go with PCG to create a tool for multiple purposes. This tool is designed to be used in a variety of ways allowing for generation of, walls, fences, vegetation, etc along a spline
+This project investigates the capabilities of UE5's PCG framework with the goal of developing a versatile, spline-based generation tool. Designed for multi-purpose use, the tool supports procedural placement of assets such as walls, fences, and vegetation, enabling flexible deployment across a range of environment design scenarios
 
 ## How To Guide
 1. In Unreal Engine, browse to the "PCG_SplineInstancer" actor and drag an instance into the world
